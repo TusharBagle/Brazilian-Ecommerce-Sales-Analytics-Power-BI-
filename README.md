@@ -38,7 +38,7 @@ The dashboards help stakeholders monitor KPIs, identify business trends, and mak
 
 ### 📈 Sales Overview
 
-![Sales Overview]([Dashboard%20Preview/Payment%20%26%20Reviews.png](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/blob/main/Sales%20Overview.png))
+![Sales Overview]((https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/blob/main/Sales%20Overview.png))
 
 ---
 
@@ -50,8 +50,7 @@ The dashboards help stakeholders monitor KPIs, identify business trends, and mak
 
 ### 🌍 Geographic Analysis
 
-![Geographic Analysis]([Dashboard%20Preview/Geographic%20Analysis.png](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/blob/main/Geographic%20Analysis.png
-))
+![Geographic Analysis]((https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/blob/main/Geographic%20Analysis.png))
 
 ---
 
