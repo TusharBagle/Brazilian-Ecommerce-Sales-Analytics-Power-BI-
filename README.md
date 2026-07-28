@@ -34,23 +34,26 @@ The dashboards help stakeholders monitor KPIs, identify business trends, and mak
 
 ---
 
-## 🖼️ Dashboard Preview
+## 📊 Dashboard Preview
 
-### 📈 Sales Overview
-
-[Sales Overview](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/blob/main/Sales%20Overview%20Dashboard.png)
-
----
-
-### 💳 Payments & Reviews
-
-[Payments & Reviews](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/blob/main/Payment%20%26%20Review%20Dashboard.png)
+### 📈 Sales Overview Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/main/Sales%20Overview%20Dashboard.png" width="100%" alt="Sales Overview Dashboard">
+</p>
 
 ---
 
-### 🌍 Geographic Analysis
+### 💳 Payment & Review Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/main/Payment%20%26%20Review%20Dashboard.png" width="100%" alt="Payment & Review Dashboard">
+</p>
 
-[Geographic Analysis](https://github.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/blob/main/Geographic%20Analysis.png)
+---
+
+### 🌍 Geographic Analysis Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TusharBagle/Brazilian-Ecommerce-Sales-Analytics-Power-BI-/main/Geographic%20Analysis.png" width="100%" alt="Geographic Analysis Dashboard">
+</p>
 
 ---
 
